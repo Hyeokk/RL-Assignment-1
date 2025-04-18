@@ -1,10 +1,30 @@
-# Reinforcement Learning Assignment #1
-
-## Exploration 전략 비교 실험
+## Reinforcement Learning Assignment #1
+### SARSA, Q-Learning 실험  
 + **목표** : Q-Learning 및 SARSA 학습에서 사용하는 탐색 정책 (ε-greedy)의 차이를 실험을 통해 확인하고 비교 분석한다.
 + **내용**
    - 동일한 환경에서 $\epsilon$-greedy policy를 적용한 Q-Learning, SARSA 알고리즘 각각 구현
    - Q-value 수렴 과정 시각화 (plot 포함)
    - episode reward, 성공률 등을 기준으로 성능 비교
 
-https://github.com/user-attachments/assets/ed1bfbd4-be8f-49b7-849f-da53b936d230
+## Requirement
+
+| 패키지 이름        | 버전      | 설명 (선택적으로 기입)       |
+|-------------------|-----------|-----------------------------|
+| gymnasium         | 0.28.1    | 강화학습 환경 (Gym API)      |
+| minigrid          | 3.0.0     | MiniGrid 환경               |
+| box2d-py          | 2.3.5     | Box2D 물리 시뮬레이션        |
+| pygame            | 2.6.1     | 게임 환경 지원 (렌더링 등)   |
+| swig              | 4.3.0     | C/C++ 바인딩 도구            |
+| numpy             | 2.0.2     | 수치 계산 라이브러리         |
+| pandas            | 2.2.3     | 데이터프레임 처리             |
+| matplotlib        | 3.9.4     | 시각화 도구                  |
+| imageio-ffmpeg    | 0.6.0     | 영상 인코딩/디코딩           |
+| moviepy           | 2.1.2     | 비디오 편집 도구             |
+| jupyter           | 1.1.1     | 주피터 노트북                |
+| ipykernel         | 6.29.5    | 주피터 커널 실행 환경         |
+
+## SARSA
+
+
+## Q-Learning
+![Image](https://github.com/user-attachments/assets/d7941065-4b3e-4130-a4f8-e84c4bd30ee0)
