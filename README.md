@@ -43,4 +43,11 @@
 ![Image](https://github.com/user-attachments/assets/d7941065-4b3e-4130-a4f8-e84c4bd30ee0)
 
 ## Comparsion
++ discount factor에 따른 reward 평균값 변화양상 비교 (SARSA, Q-Learning)
+<img width="953" alt="Image" src="https://github.com/user-attachments/assets/1109fcc0-73b7-4874-a916-0c281d87cd5c" />br><br>
 
++ SARSA Q-value 분포표
+<img width="932" alt="Image" src="https://github.com/user-attachments/assets/a9fba647-7c30-4b81-86f9-11b4e0571fda" />br><br>
+
++ Q-Learning Q-value 분포표
+<img width="937" alt="Image" src="https://github.com/user-attachments/assets/feabfb67-abc3-4532-add1-21af683185e2" />br><br>
